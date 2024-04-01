@@ -1,0 +1,139 @@
+#FALLOUT: SONORA
+
+@ This game was Based on Fallout 2
+@ 2020-2021 A.D.
+
+
+
+#- Project Worked on By: -
+
+
+Alexander "BLACK DESIGNER" Poshelyuzhin
+@idea,design,story,scripting
+@3-D modeling,scenery sprites,
+@game text,location maps,game animations.
+
+
+Alexander "Red888Guns" Berezin
+@3-D modeling,scenery sprites,
+@inventory,talking heads,
+@Gunship explosion cinematic in v1.10
+
+
+Osman "Wolfram" Adzhiusmanov
+@Intro cinematic
+
+
+Grigorij Sokolov
+@creating a video with an explosion in Puerto
+@Consulting in video animations
+
+
+Denis "MASTER" Voloshin
+@quality control,betatesting, game text discussion
+
+
+Dimitriy Kuznyetsov
+@Betatesting build #29
+
+
+"Foxx"
+@Installer, Sfall & HRP adaptation
+
+
+"Lexx"
+@Finishing animation set for NMLTHR
+
+
+Enrique Barredo
+@Spanish Language Consultant
+
+
+David Agyeyev
+@Game texts (Garage-City, Rangers,
+@San-Brahmin,typical objects,random encounters)
+
+
+Ilya Nizovskih
+@game texts (Flagpool,Tuscon,Casa-Nueva)
+
+
+Alexander "Vault_boy" Tchernyenko
+@game texts 
+@(Jackals,Phoenix,Old Motel,Inferno, Pipboy notes)
+
+
+Tainted Acolyte
+@game texts (Casa-Grande,Raiders)
+
+
+Elena Skrivayeva
+@game text editing (proofreading) 
+
+
+Dimmitryi "Jimmy J." Tchepusov
+@behind the scene voice in slideshow cinematic
+
+
+Alyexiey "NOBODY'S NAIL MACHINE" Trofimov
+@Composer
+
+
+@In the opening Video and end game Credits
+@Sounds the song "La Cucaracha"
+@performed by Louis Armstrong
+
+
+
+#- DLC DAYGLOW WAS WORKED ON BY: -
+
+Alexander Berezin (graphics)
+Alyexiey Trofimov (music)
+Akop Abraamyan (game texts)
+Tainted Acolyte (text editing)
+Alexander Poshelyuzhin (all the rest)
+
+
+
+#- OTER THANKS TO -
+
+@Users of out forum Vkontaktye
+@thanks for Your moral support
+@for criticism and help.
+
+
+Akop "Vaulter" Abramyan
+@for Vkontaktye group
+
+Yegor "Vault 13" Ostapyenko
+@for forum help and all the support
+
+WWW.FALLOUT-NEVADA.UCOZ.RU
+@official site
+
+
+ALPOSH(a)MAIL.RU
+@related to Nevada Band
+
+@during work on the project, Fallout 2
+@Modding tools were used:
+
+BIS mapper
+Fallout 2 DAT explorer ver 1.43
+sFall ScriptEditor ver 4.1.5.0
+Frame Animator ver 2.51 by Jochua
+AVI to MVE converter by ABel
+
+
+
+
+
+#- ALL RIGHTS RESERVED BY LAW -
+
+@Copying, Duplication and using this program
+@ and any parts thereof for comercial purposes
+@ is voilation of copyright LAW.
+
+
+@Fallout trademark rights reserved
+Bethesda Softworks LLC
